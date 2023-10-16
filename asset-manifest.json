@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERNReacttask2/static/css/main.54cd8503.css",
+    "main.js": "/MERNReacttask2/static/js/main.ccde1823.js",
+    "index.html": "/MERNReacttask2/index.html",
+    "main.54cd8503.css.map": "/MERNReacttask2/static/css/main.54cd8503.css.map",
+    "main.ccde1823.js.map": "/MERNReacttask2/static/js/main.ccde1823.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54cd8503.css",
+    "static/js/main.ccde1823.js"
+  ]
+}
